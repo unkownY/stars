@@ -1,0 +1,13 @@
+{
+  "name": "stars-sync",
+  "version": "1.0.0",
+  "description": "Sync GitHub stars and generate static site for GitHub Pages",
+  "main": "sync.js",
+  "scripts": {
+    "sync": "node sync.js",
+    "generate": "node sync.js"
+  },
+  "keywords": ["github", "stars", "sync"],
+  "author": "unkownY",
+  "license": "MIT"
+}
